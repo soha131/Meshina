@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "115186224562",
+    "project_id": "meshina-ae314",
+    "storage_bucket": "meshina-ae314.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115186224562:android:a1df1eb95bdc37b2e8a8ab",
+        "android_client_info": {
+          "package_name": "com.example.meshina_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115186224562-tmsv942qak00cpdcinq138samu1i1hc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meshina_app",
+            "certificate_hash": "1ca1bc01dfeeec914b22035ef4f8f515c023039c"
+          }
+        },
+        {
+          "client_id": "115186224562-l37nicpcorg8in6irmnuopepfi4etq7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZfCfQoLNAquLxET0XDD36SjkJH8axrm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115186224562-l37nicpcorg8in6irmnuopepfi4etq7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
