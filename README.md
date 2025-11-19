@@ -9,17 +9,17 @@ Empowering eco-conscious travel decisions through AI-powered route optimization.
    Meshina is a Flutter-based mobile application designed to promote sustainable transportation in Saudi Arabia. The app leverages AI/ML models, real-time traffic data, and carbon footprint calculations to help users make eco-friendly travel decisions while earning rewards for sustainable choices.
    
    🎯 Core Mission
-        Reduce Carbon Emissions: Track and minimize your carbon footprint
-        Reward Sustainability: Earn eco-points for choosing green transportation
-        Smart Routing: AI-powered travel time predictions considering weather, traffic, and road conditions
-        Multi-Modal Transport: Support for walking, cycling, public transit, and driving
+       Reduce Carbon Emissions: Track and minimize your carbon footprint
+       Reward Sustainability: Earn eco-points for choosing green transportation
+       Smart Routing: AI-powered travel time predictions considering weather, traffic, and road conditions
+       Multi-Modal Transport: Support for walking, cycling, public transit, and driving
    
 
 ---
 
 ## ✨ Key Feature
 
- 🚀 Core Functionality
+ 🚀Core Functionality
           🗺️ Interactive Map Interface
               Real-time location tracking with Google Maps
               Visual route comparison with color-coded polylines
@@ -61,6 +61,7 @@ Empowering eco-conscious travel decisions through AI-powered route optimization.
              Offline-capable data storage
              Real-time synchronization
 ---
+
 
 ## 🛠️ Tech Stack
    - Frontend
