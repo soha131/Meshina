@@ -18,48 +18,47 @@ Empowering eco-conscious travel decisions through AI-powered route optimization.
 ---
 
 ## ✨ Key Feature
-
- 🚀Core Functionality
-          🗺️ Interactive Map Interface
-                 Real-time location tracking with Google Maps
-                 Visual route comparison with color-coded polylines
-                 Multiple route alternatives with carbon impact analysis
-          🤖 AI-Powered Predictions
-                 ML-based travel time estimation
-                 Weather-aware routing
-                 Traffic pattern analysis
-                 Hour-of-day optimization
-          🌱 Carbon Footprint Tracking
-                 Real-time emission calculations per transport mode
-                 Historical carbon contribution analytics
-                 Beautiful data visualizations with pie charts
-                 Emission level categorization (Low/Medium/High)
-          🎁 Rewards System
-                 Earn eco-points for sustainable travel choices
-                 Points-to-currency conversion (100 points = 1 SAR)
-                 Integration with utility bill payments
-                 Nafath payment gateway support
-          🎤 Voice Interaction
-                 Arabic voice commands via Speech-to-Text
-                 AI assistant powered by Google Gemini
-                 Text-to-Speech navigation instructions
-                 Natural language location search
-          📊 Analytics Dashboard
-                 Interactive carbon wheel visualization
-                 Transport mode usage statistics
-                 Emission percentage breakdowns
-                 Points earning history
-🔐 Authentication & Security
-             Email/Password authentication via Firebase
-             Google Sign-In integration
-             Nafath authentication support (Saudi Arabia)
-             PIN-based quick login
-             Secure session management with SharedPreferences
-💾 Data Persistence
-             Trip history saved to Firestore
-             User profiles with eco-points tracking
-             Offline-capable data storage
-             Real-time synchronization
+   🚀Core Functionality
+             🗺️ Interactive Map Interface
+                    Real-time location tracking with Google Maps
+                    Visual route comparison with color-coded polylines
+                    Multiple route alternatives with carbon impact analysis
+             🤖 AI-Powered Predictions
+                    ML-based travel time estimation
+                    Weather-aware routing
+                    Traffic pattern analysis
+                    Hour-of-day optimization
+             🌱 Carbon Footprint Tracking
+                    Real-time emission calculations per transport mode
+                    Historical carbon contribution analytics
+                    Beautiful data visualizations with pie charts
+                    Emission level categorization (Low/Medium/High)
+             🎁 Rewards System
+                    Earn eco-points for sustainable travel choices
+                    Points-to-currency conversion (100 points = 1 SAR)
+                    Integration with utility bill payments
+                    Nafath payment gateway support
+             🎤 Voice Interaction
+                    Arabic voice commands via Speech-to-Text
+                    AI assistant powered by Google Gemini
+                    Text-to-Speech navigation instructions
+                    Natural language location search
+             📊 Analytics Dashboard
+                    Interactive carbon wheel visualization
+                    Transport mode usage statistics
+                    Emission percentage breakdowns
+                    Points earning history
+   🔐 Authentication & Security
+                Email/Password authentication via Firebase
+                Google Sign-In integration
+                Nafath authentication support (Saudi Arabia)
+                PIN-based quick login
+                Secure session management with SharedPreferences
+   💾 Data Persistence
+                Trip history saved to Firestore
+                User profiles with eco-points tracking
+                Offline-capable data storage
+                Real-time synchronization
 ---
 
 
